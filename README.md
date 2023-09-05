@@ -6,6 +6,12 @@
 
 The MERN Blog Website is a feature-rich, full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It empowers users to create, read, update, and delete blog posts in a sleek, responsive design while ensuring secure user authentication.
 
+### Screenshot
+
+![Capture](https://github.com/VikasRana10/MERN_blog/assets/90509555/92681fbf-79ac-4686-b69b-a912aa448cf8)
+
+![Capture2](https://github.com/VikasRana10/MERN_blog/assets/90509555/c0cf0bab-a758-4a46-9d23-4e3b3ab86d08)
+
 ### Live Link of the website 
 ### Frontend  
 https://vrblog.netlify.app/
