@@ -38,18 +38,18 @@ To get started with the MERN Blog Website, follow these simple steps:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-blog-website.git
-cd mern-blog-website
+https://github.com/VikasRana10/MERN_blog.git
+cd MERN_blog
 ```
 
 #### Step 2: Set Up the Backend
 
 ```bash
-# Navigate to the backend directory
-cd backend
+# Navigate to the server directory
+cd server
 
 # Install backend dependencies
-npm install
+yarn install
 
 # Set up your MongoDB database and configure the environment variables in a .env file
 # Example .env file:
@@ -58,20 +58,20 @@ npm install
 # JWT_SECRET=mysecretkey
 
 # Start the backend server
-npm start
+yarn start
 ```
 
 #### Step 3: Set Up the Frontend
 
 ```bash
 # Navigate to the frontend directory
-cd frontend
+cd client
 
 # Install frontend dependencies
-npm install
+yarn install
 
 # Start the frontend development server
-npm start
+yarn start
 ```
 
 #### Step 4: Run the Application
