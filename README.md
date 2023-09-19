@@ -1,4 +1,4 @@
-# 📚 MERN Blog Website Repository 📚
+# 📚 MERN Blog Website 📚
 
 ## Welcome to the MERN Blog Website!
 
